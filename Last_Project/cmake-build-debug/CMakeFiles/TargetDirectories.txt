@@ -1,3 +1,0 @@
-D:/C++Projects/Last_Project/cmake-build-debug/CMakeFiles/Last_Project.dir
-D:/C++Projects/Last_Project/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/C++Projects/Last_Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
