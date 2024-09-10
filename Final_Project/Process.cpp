@@ -181,8 +181,7 @@ void Process::writeToFile(const std::basic_string<char> &fileName) {
     Process::nextPage();
 }
 
-void Process::nextPage() { // this method help to cls terminal after press any key!
-    std::string x;
+void Process::nextPage() { // this method help to cls terminal after press any key!
     std::cout << "Press Any Key to Continue";
     _getwch();  //c functions always help==)))))
     system("CLS");
